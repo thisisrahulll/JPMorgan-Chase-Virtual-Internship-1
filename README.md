@@ -4,7 +4,7 @@ This repository contains all of my patch file solutions for the various tasks as
 ## Tasks assigned during the internship
 #### 1. Interface with a stock price data feed
 - Interface with a stock price data feed and set your system for analysis of data
-- `Finalcial Data` 
+- `Financial Data` 
 - `Python3`
 - `Git`
 - `Basic Programming`
